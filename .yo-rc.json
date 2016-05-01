@@ -1,0 +1,9 @@
+{
+  "generator-speedseed": {
+    "-ss_version": "generator-speedseed version 0.4.1",
+    "projectName": "test",
+    "projectDescription": "test",
+    "projectVersion": "0.1.0",
+    "-ss_dev": true
+  }
+}
